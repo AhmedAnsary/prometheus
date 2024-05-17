@@ -1,6 +1,9 @@
 #Authentication (self-signed Certificate) between prometheus Server and target.
 
+first we will start with :
+
 Prometheus Server & Configuration:
+
 Steps:
 
 1-Configure the Prometheus server with a static IP address
